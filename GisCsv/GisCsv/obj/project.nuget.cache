@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MhK44JZssxA5hfmpbgfpNiBS2wDHnNrELkU74HaNMTpn3Qg4gj6DKB4C9QMFvHiQet+Wyx95FFq8sRL29AZqCA==",
+  "success": true,
+  "projectFilePath": "D:\\VSCode\\practica\\second\\GisCsv\\GisCsv\\GisCsv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.visualbasic\\10.4.0-preview.18571.3\\microsoft.visualbasic.10.4.0-preview.18571.3.nupkg.sha512"
+  ],
+  "logs": []
+}
